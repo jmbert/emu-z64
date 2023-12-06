@@ -1,0 +1,6 @@
+.vscode/
+*.d
+*.o
+*.a
+*.bin
+emu-z64
